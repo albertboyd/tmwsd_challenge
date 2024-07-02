@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/claraprice/tmwsd_challenge#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
     "node": "^17.1.0",
-    "pug": "^3.0.2"
+    "pug": "^3.0.3"
   }
 }

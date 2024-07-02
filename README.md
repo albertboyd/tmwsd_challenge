@@ -31,3 +31,18 @@ Two more things:
 ## Step 3: Submit
 
 Send an email with a link to your fork when finished. Thanks!
+
+
+# This Message Will Self-Destruct
+
+A NodeJS programming challenge.
+
+## Installation
+
+1. Fork this repository, clone it, install dependencies, and run it.
+
+```sh
+git clone https://github.com/albertboyd/tmwsd_challenge
+cd tmwsd_challenge
+npm install
+node app.js

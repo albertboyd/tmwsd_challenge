@@ -1,14 +1,9 @@
 doctype html
 html
   head
-    title Messages
+    title New Message
   body
     h1 Create a new message
     form(action="/new" method="POST")
       textarea(name="content" required)
       button(type="submit") Create
-    h2 Messages
-    ul
-      each message in messages
-        li
-          a(href=`/${message._id}`) #{message.content.substring(0, 20)}...
